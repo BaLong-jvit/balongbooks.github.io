@@ -1,0 +1,57 @@
+.item {
+    padding-left: 100px;
+}
+.pricing {
+    position: absolute;
+    right: 40%;
+    top: 52%;
+}
+.girl {
+    margin-left: 0;
+}
+h1 {
+    color: #b4b1ab;
+    font-family: abel;
+    font-size: 48px;
+    margin-top: 80px;
+}
+
+h1 span {
+    color: #fe980f;
+}
+
+h2 {
+    color: #363432;
+    font-family: "Roboto", sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 22px;
+    margin-top: 10px;
+}
+
+p {
+    color: #363432;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+}
+.get {
+    background: #fe980f;
+    border: 0 none;
+    border-radius: 0;
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.get:hover {
+    background: #fe980f;
+}
+.item > span {
+    display: block;
+    margin-top: 20px;
+    font-size: small;
+    color: #a7a5a2;
+    font-style: oblique;
+}
