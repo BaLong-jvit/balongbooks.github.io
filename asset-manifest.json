@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f07645f0.chunk.css",
+    "main.js": "/static/js/main.53e6cf66.chunk.js",
+    "main.js.map": "/static/js/main.53e6cf66.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8a257bac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8a257bac.js.map",
+    "static/css/2.e7fd6689.chunk.css": "/static/css/2.e7fd6689.chunk.css",
+    "static/js/2.eea065c5.chunk.js": "/static/js/2.eea065c5.chunk.js",
+    "static/js/2.eea065c5.chunk.js.map": "/static/js/2.eea065c5.chunk.js.map",
+    "static/js/3.4e9e4aaf.chunk.js": "/static/js/3.4e9e4aaf.chunk.js",
+    "static/js/3.4e9e4aaf.chunk.js.map": "/static/js/3.4e9e4aaf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e7fd6689.chunk.css.map": "/static/css/2.e7fd6689.chunk.css.map",
+    "static/css/main.f07645f0.chunk.css.map": "/static/css/main.f07645f0.chunk.css.map",
+    "static/js/2.eea065c5.chunk.js.LICENSE.txt": "/static/js/2.eea065c5.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/static/media/background.201e34f2.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/Contact.css": "/static/media/zalo-hover.94c43193.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a257bac.js",
+    "static/css/2.e7fd6689.chunk.css",
+    "static/js/2.eea065c5.chunk.js",
+    "static/css/main.f07645f0.chunk.css",
+    "static/js/main.53e6cf66.chunk.js"
+  ]
+}
